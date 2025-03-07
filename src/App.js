@@ -14,7 +14,7 @@ const questions = [
       { text: "Depends on the task", trait: "Flexible", className: "bg-gray-100 hover:bg-gray-200" },
       { text: "No preference", trait: "Neutral", className: "bg-gray-100 hover:bg-gray-200" }
     ]
-  },
+  },   
   {
     question: "How do you handle stress?",
     answers: [

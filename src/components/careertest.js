@@ -15,10 +15,10 @@ const careerQuestions = [
   {
     question: "What type of work environment do you prefer?",
     answers: [
-      { text: "Quiet and private", career: "Low-Stress" , className: "bg-gray-100 hover:bg-gray-500"},
-      { text: "Busy and dynamic", career: "High-Stress" , className: "bg-gray-100 hover:bg-gray-500"},
+      { text: "Quiet and private", career: "Low-Stress", className: "bg-gray-100 hover:bg-gray-500"},
+      { text: "Busy and dynamic", career: "High-Stress", className: "bg-gray-100 hover:bg-gray-500"},
       { text: "Collaborative", career: "Moderate-Stress", className: "bg-gray-100 hover:bg-gray-500" },
-      { text: "Flexible and remote", career: "Low-Stress" , className: "bg-gray-100 hover:bg-gray-500"}
+      { text: "Flexible and remote", career: "Low-Stress", className: "bg-gray-100 hover:bg-gray-500"}
     ]
   },
   {
